@@ -1,0 +1,26 @@
+h3{
+
+    color:tomato;
+    background-color: green;
+    text-align: center;
+    font-size: 35px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+small{
+
+    display: block;
+}
+h1{
+    display: inline;
+    background-color: yellow;
+    color: blue;
+}
+
+h4{
+
+    display: inline-block ;
+    background-color: yellow;
+    color: blue;
+}
